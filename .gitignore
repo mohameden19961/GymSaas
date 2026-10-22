@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers générés
+dist/
+build/
+coverage/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
